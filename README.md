@@ -1,4 +1,4 @@
-# Progetto API (A.A. 2021-2022)
+# Prova Finale di Algoritmi e Principi dell'Informatica (A.A. 2021-2022)
 
 **ITA** - Questa repository contiene il codice sorgente utilizzato per la "Prova Finale di Algoritmi e Principi dell'Informatica", uno dei tre porgetti richiesti per conseguire la Laurea Triennale in Ingegneria Informatica al Politecnico di Milano. L'obiettivo del progetto è di creare un programma, utilizzando il linguaggio C, che rispetti le specifiche riportate nel file "Requirements". 
 
